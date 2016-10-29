@@ -1,0 +1,1 @@
+To Do List Application built with Angular.js framework. The app was built following Angular Basics tutorial by Team Treehouse - https://teamtreehouse.com/library/angular-basics.
